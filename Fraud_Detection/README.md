@@ -1,4 +1,4 @@
-Below are all the columns from the dataset I’m using here:
+Below are all the columns from the dataset:
 
 - step: represents a unit of time where 1 step equals 1 hour
 - type: type of online transaction
